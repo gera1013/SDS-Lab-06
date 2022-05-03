@@ -77,7 +77,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# large json
+# to avoid large json
 *.json
 
 # IPython
