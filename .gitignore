@@ -78,7 +78,7 @@ target/
 .ipynb_checkpoints
 
 # large json
-.json
+*.json
 
 # IPython
 profile_default/
